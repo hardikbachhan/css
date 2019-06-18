@@ -1,0 +1,171 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  color: brown;
+  font-size: 5.62rem;
+  margin-top: 12%;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: brown;
+  font-size: 2.5rem;
+  margin: 5% 0;
+}
+
+h3 {
+  color: #bb7171;
+}
+
+a {
+  color: brown;
+  font-family: 'Sacramento', serif;
+  font-size: 2rem;
+  text-decoration: none;
+}
+a:hover{
+  color: white;
+}
+p {
+  line-height: 2;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 3%;
+  border-width: 6px;
+  color: grey;
+  margin-top: 3%;
+  margin-bottom: 4%;
+}
+.description {
+  font-weight: lighter;
+}
+
+.front {
+  width: 50%;
+  margin: 0 auto;
+  padding-top: 7%;
+  position: relative;
+  line-height: 0.5;
+}
+
+.top-container {
+  background-color: orange;
+  margin-bottom: 9%;
+}
+
+.bottom-container {
+  background-color: orange;
+  margin-top: 4%;
+  padding-top: 3rem;
+}
+
+.copy-right{
+  margin-top: 3rem;
+}
+.footer-link{
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+
+.profile {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.skills {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.boy-image {
+  border-radius: 100%;
+  background-color: #bb7171;
+}
+
+.algorithm {
+  width: 15%;
+  float: left;
+  margin-right: 3%;
+  background-color: orange;
+  border-radius: 100%
+}
+
+.web-d {
+  width: 15%;
+  float: right;
+}
+
+.copy-right {
+  color: #EAF6F6;
+  margin-bottom: 0;
+  padding-bottom: 2rem;
+  font-size: 0.75rem;
+}
+
+.first-cloud {
+  position: absolute;
+  right: 0;
+  top: 12%;
+}
+
+.second-cloud {
+  position: absolute;
+  left: 0;
+  bottom: 40%;
+}
+
+.mountain {
+  margin-top: 5%;
+}
+
+.skill-row-1 {
+  margin: 5% 0 10%;
+}
+
+.skill-row-2 {
+  margin: 5% 0 4%;
+}
+
+.main {
+  text-align: left;
+}
+
+.info {
+  width: 50%;
+  margin: 0 auto;
+}
+.society{
+  font-weight: bold;
+}
+.space{
+  width: 80%;
+  margin: 2rem auto 4rem;
+}
+.button {
+  background-color: orange;
+  font-family: 'Merriweather', serif;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  -webkit-transition-duration: 0.8s;
+  transition-duration: 0.8s;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #ffd19a;
+  color: black;
+}
