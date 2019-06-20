@@ -169,3 +169,7 @@ hr {
   background-color: #ffd19a;
   color: black;
 }
+.align{
+  text-align: left;
+  margin-left: 34%;
+}
